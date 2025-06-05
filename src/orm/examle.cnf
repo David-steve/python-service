@@ -1,0 +1,6 @@
+[client]
+host = your_host
+port = port_port
+user = your_username
+password = you_password
+database = database_name
